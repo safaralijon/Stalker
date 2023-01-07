@@ -1,7 +1,7 @@
-h1{
-    color: green;
-    font-size: 20px;
-    text-transform: uppercase;
-    text-align: right;
-    text-decoration: underline;
+footer{
+    background-color: red;
+    width: 400px;
+}
+footer{
+    tab-size: 500px;
 }
