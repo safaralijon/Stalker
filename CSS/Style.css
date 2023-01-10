@@ -1,6 +1,15 @@
 footer{
     background-color: red;
-    width: 400px;
-    
+    color: black;
+    font-weight: 1000px;
+    margin-right: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+table{
+    padding: 80px;
+    width: 100%;
+    max-width: 1300px;
+    text-align: left;
 }
 
